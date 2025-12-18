@@ -3,8 +3,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'AI Spec Book',
-  tagline: 'Spec-driven AI learning',
+  title: 'AI Spec Book by Anshara Amir',
+  tagline: 'Learn AI with Spec-Driven Development',
   favicon: 'img/favicon.ico',
 
   future: {
