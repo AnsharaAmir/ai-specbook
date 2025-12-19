@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Dependencies
 /node_modules
 
@@ -19,10 +18,3 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-=======
-node_modules/
-.env
-.cache/
-build/
-.DS_Store
->>>>>>> 1e45ac153f86c25a8eb16f1bd71514776ef8e6f1
